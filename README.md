@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugomichael33
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react
+- 👀 I’m a FrontEnd Developer
+- 🌱 Using tools like React,Redux, typescript,and others to build real life projects
 - 💞️ I’m looking to collaborate on various react projects
 - 📫 How to reach me on ugochikanele@gmail.com or @ugo_michael on twitter.
 
